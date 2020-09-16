@@ -1,2 +1,2 @@
 # swipe-auth-demo
-Demonstration of smartphone swipe authentication system using SVM classifier
+Partial demonstration of smartphone swipe authentication system using SVM classifier
